@@ -1,3 +1,14 @@
+# MINI PROJECTS🧩
+
+<h2>Description:</h2>
+<h4>This is an app that contains other small apps, like Counter1️⃣, TodoList📝 and Weather⛅ with their respective local storage. Here you'll find that you can change the language between es and en. </h4>
+
+<h3>What I learn here🧠</h3>
+<h4>How to use react router and useContext!</h4>
+
+![363shots_so](https://github.com/user-attachments/assets/8afaf213-fa6a-4f3a-afd7-742ea0648b88)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
