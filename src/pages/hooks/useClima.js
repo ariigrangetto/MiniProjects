@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import KEY from "../../../key";
+import KEY from "../../../endpoint";
 
 const API_KEY = KEY;
 
