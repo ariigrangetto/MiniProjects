@@ -1,6 +1,7 @@
 import { useRef, useState } from "react";
+import KEY from "../../../key";
 
-const API_KEY = "e190dc94e6d3ca2e93566413c267ec4e";
+const API_KEY = KEY;
 
 export default function useClima() {
   const [location, setLocation] = useState("");
